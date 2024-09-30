@@ -25,9 +25,3 @@ We have been provided with metadata that includes text prompts and depth maps. T
 - OpenCV (for canny edge detection and other image processing tasks)
 - NumPy (for handling `.npy` files)
 - Matplotlib (for visualizing results)
-
-You can install the required dependencies by running:
-
-```bash
-pip install torch diffusers opencv-python matplotlib numpy
-
