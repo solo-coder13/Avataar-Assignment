@@ -1,0 +1,6 @@
+torch # a deep learning framework used for building and training neural networks.
+diffusers # a library that supports diffusion models, including Stable Diffusion, used for generating images from text prompts.
+transformers # a library by Hugging Face for natural language processing (NLP) tasks. It's used to load pre-trained models such as BERT, GPT, etc.
+pillow # a modern image processing library that replaces PIL. It's used for image manipulation, including opening, modifying, and saving images.
+numpy # a fundamental package for numerical computations in Python, particularly useful for working with arrays and matrices.
+opencv-python # a popular library for real-time computer vision. It provides tools for tasks like image and video processing.
